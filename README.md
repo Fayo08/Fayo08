@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **oyendefavour12@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing](https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing](https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing)](https://docs.google.com/document/d/1sjRpGsDV1QjFQzC2SEVH2uxvj-5CC0HyayzunCbx05E/edit?tab=t.0)
 
 - ⚡ Fun fact **I love adventures!**
 
