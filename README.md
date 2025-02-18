@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Favour</h1>
 <h3 align="center">A passionate Full-stack developer located in Alberta, Canada</h3>
 
-- 🔭 I’m currently working on [Find-my-mechanic](https://github.com/Fayo08/Find-my-mechanic)
+- 🔭 I’m currently working on [Talent-Trace](https://github.com/makeitMVPadmin/LAP6_talent-trace)
 
 - 🌱 I’m currently learning **Typescript, Tensorflow, Reactnative, flutter**
 
