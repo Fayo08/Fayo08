@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Favour</h1>
-<h3 align="center">A passionate Full-stack developer, learner, and builder who loves solving complex problems for companies</h3>
+<h3 align="center">A passionate Full-Stack Developer, learner, and builder who loves solving complex problems for companies</h3>
 
 - I work as a Software Developer, and I completed my postgraduate studies with Brainstation. I have a lot of experience building intuitive and user-centric applications using JavaScript, TypeScript, React, React Native, Expo, SQL, Node.js, Firebase, Python etc. I am skilled in building products that retain customer trust and solve business requirements.
 
