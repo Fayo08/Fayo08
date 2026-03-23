@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Favour</h1>
-<h3 align="center">A passionate Full-stack developer located in Alberta, Canada</h3>
+<h3 align="center">A passionate Full-stack developer, learner, and builder who loves solving complex problems</h3>
 
-- 🔭 I’m currently working on [Talent-Trace](https://github.com/makeitMVPadmin/LAP6_talent-trace)
+- I work as a Software Developer, and I completed my postgraduate studies with Brainstation. I have a lot of experience building intuitive and user-centric applications using JavaScript, TypeScript, React, React Native, Expo, SQL, Node.js, Firebase, Python etc. I am skilled in building products that retain customer trust and solve business requirements.
 
-- 🌱 I’m currently learning **Typescript, Tensorflow, Reactnative, flutter**
+- 🔭 I’m currently working on a shared platform where Alberta partners contribute program data, gain insights through dashboards, and collectively track how the innovation ecosystem is performing over time. [EHT][https://github.com/neuralbertatech/EHT]
 
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **Machine Learning models, Orchestration Layers**
 
 - 📫 How to reach me **oyendefavour12@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing](https://docs.google.com/document/d/1HGTNK6iQmkrqCLOQHlwepKUBO9LHGxSW79MKSPqsMoE/edit?usp=sharing)](https://docs.google.com/document/d/1sjRpGsDV1QjFQzC2SEVH2uxvj-5CC0HyayzunCbx05E/edit?tab=t.0)
 
 - ⚡ Fun fact **I love adventures!**
 
